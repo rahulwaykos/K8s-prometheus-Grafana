@@ -4,4 +4,4 @@ metadata:
   name: grafana-datasources
   namespace: monitoring
 data:
-  prometheus.yaml
+  datasource/prometheus.yml
